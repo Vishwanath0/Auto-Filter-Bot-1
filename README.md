@@ -3,12 +3,12 @@
 Do Fork And Star The Repository If You Liked It.
 
 <p align="center">
-  <a href="https://github.com/tgbotsProject/Auto-Filter-Bot/fork">
-    <img src="https://img.shields.io/github/forks/tgbotsProject/Auto-Filter-Bot?label=Fork&style=social">
+  <a href="https://github.com/Vishwanath0/Auto-Filter-Bot-1/fork">
+    <img src="https://img.shields.io/github/forks/Vishwanath0/Auto-Filter-Bot-1?label=Fork&style=social">
     
   </a>
-  <a href="https://github.com/tgbotsProject/Auto-Filter-Bot">
-    <img src="https://img.shields.io/github/stars/tgbotsProject/Auto-Filter-Bot?style=social">
+  <a href="https://github.com/Vishwanath0/Auto-Filter-Bot-1">
+    <img src="https://img.shields.io/github/stars/Vishwanath0/Auto-Filter-Bot-1?style=social">
   </a>
 </p>
 
@@ -53,21 +53,12 @@ OR
 
 ### Pre Requisites 
 - `BOT_TOKEN` From [@BotFather](http://telegram.dog/BotFather)
-- `APP_ID` And `API_HASH` From [Telegram](https://my.telegram.org) or [@UseTGzkBot](http://telegram.dog/UseTGzkBot)
+- `APP_ID` And `API_HASH` From [Telegram](https://my.telegram.org)
 - `USER_SESSION` String Obtained From [Repl.it](https://replit.com/@ZauteKm/GenerateStringSession)
 - `DB_URL` Obtained From [Mongo DB](http://mongodb.com)
-- How to Get MongoDB URL: [Click here](https://youtu.be/nj-lJfkgb6w)
-
-## How to Deploy
-Click the below button to watch the video tutorial on deploying
-
-<a href="https://youtu.be/dbUNznxWxVA"><img src="https://img.shields.io/badge/How%20To%20Deploy-blue.svg?logo=Youtube"></a>
-<a href="https://youtu.be/dbUNznxWxVA"><img src="https://img.shields.io/youtube/views/dbUNznxWxVA?style=social">
 
 ## Deploy Now
 You can deploy this bot anywhere.
-
-• **[Watch Deploying Tutorial](https://youtu.be/dbUNznxWxVA)**
 
 <details><summary>Deploy to Heroku</summary>
 <p>
