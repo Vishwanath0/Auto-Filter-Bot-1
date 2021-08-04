@@ -7,16 +7,16 @@
         "Filter",
         "Mongo DB"
     ],
-    "website": "https://github.com/ZauteKm",
-    "repository": "https://github.com/tgbotsProject/Auto-Filter-Bot",
-    "success_url": "https://telegram.dog/tgbotsProject",
+    "website": "https://github.com/Vishwanath0",
+    "repository": "https://github.com/Vishwanath0/Auto-Filter-Bot-1",
+    "success_url": "https://telegram.dog/vishw_anath8",
     "env": {
         "APP_ID": {
-            "description": "Your APP ID From my.telegram.org or @UseTGzkBot",
+            "description": "Your APP ID From my.telegram.org",
             "value": ""
         },
         "API_HASH": {
-            "description": "Your API Hash From my.telegram.org or @UseTGzkBot",
+            "description": "Your API Hash From my.telegram.org",
             "value": ""
         },
         "BOT_TOKEN": {
@@ -24,7 +24,7 @@
             "value": ""
         },
         "DB_URI": {
-            "description": "Your Mongo DB URL Obtained From mongodb.com Full Guide: https://youtu.be/nj-lJfkgb6w (Watch now)",
+            "description": "Your Mongo DB URL Obtained From mongodb.com",
             "value": ""
         },
         "USER_SESSION": {
