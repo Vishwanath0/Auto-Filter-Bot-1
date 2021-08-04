@@ -53,26 +53,18 @@ OR
 
 ### Pre Requisites 
 - `BOT_TOKEN` From [@BotFather](http://telegram.dog/BotFather)
-- `APP_ID` And `API_HASH` From [Telegram](https://my.telegram.org) or [@UseTGzkBot](http://telegram.dog/UseTGzkBot)
+- `APP_ID` And `API_HASH` From [Telegram](https://my.telegram.org)
 - `USER_SESSION` String Obtained From [Repl.it](https://replit.com/@ZauteKm/GenerateStringSession)
 - `DB_URL` Obtained From [Mongo DB](http://mongodb.com)
-- How to Get MongoDB URL: [Click here](https://youtu.be/nj-lJfkgb6w)
-
-## How to Deploy
-Click the below button to watch the video tutorial on deploying
-
-<a href="https://youtu.be/dbUNznxWxVA"><img src="https://img.shields.io/badge/How%20To%20Deploy-blue.svg?logo=Youtube"></a>
-<a href="https://youtu.be/dbUNznxWxVA"><img src="https://img.shields.io/youtube/views/dbUNznxWxVA?style=social">
 
 ## Deploy Now
 You can deploy this bot anywhere.
 
-• **[Watch Deploying Tutorial](https://youtu.be/dbUNznxWxVA)**
 
 <details><summary>Deploy to Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/tgbotsProject/Auto-Filter-Bot/tree/master">
+<a href="https://heroku.com/deploy?template=https://github.com/Vishwanath0/Auto-Filter-Bot-1/tree/master">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
@@ -81,7 +73,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy to VPS</summary>
 <p>
 <pre>
-git clone https://github.com/tgbotsProject/Auto-Filter-Bot
+git clone https://github.com/Vishwanath0/Auto-Filter-Bot-1
 cd Auto-Filter-Bot
 pip3 install -r requirements.txt
 # Change The Vars Of bot/__init__.py File Accordingly
